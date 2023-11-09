@@ -59,6 +59,7 @@ a {
   min-height: 80vh;
   background: linear-gradient(rgba(0, 0, 0, 0.8), transparent), url(./assets/hero.jpg);
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
 }
@@ -104,6 +105,7 @@ a {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.8), transparent), url(./assets/quote-background.jpg);
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
   text-align: justify;
@@ -186,6 +188,7 @@ a {
   justify-content: center;
   background: linear-gradient(rgba(0, 0, 0, 0.6), transparent),url(./assets/login.jpg);
     background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
 
